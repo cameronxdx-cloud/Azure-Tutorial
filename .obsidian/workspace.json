@@ -168,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d258e8a016d62702",
+  "active": "3e176fc497d0f723",
   "lastOpenFiles": [
     "attachments/Pasted image 20241231104433.png",
     "attachments/Pasted image 20241231104340.png",
@@ -184,7 +184,7 @@
     "Setting up Azure AD Connect.md",
     "Migrating from onprem to Azure.md",
     "attachments",
-    "Entra ID.md",
+    "Intune.md",
     "Deploying VMs.md",
     "Images"
   ]
