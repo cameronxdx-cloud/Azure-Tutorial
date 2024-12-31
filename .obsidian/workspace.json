@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intune.md",
+                "file": "Deploying VMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intune"
+              "title": "Deploying VMs"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "d258e8a016d62702",
   "lastOpenFiles": [
+    "attachments/Pasted image 20241231133723.png",
+    "attachments/Pasted image 20241231133717.png",
+    "attachments/Pasted image 20241231133710.png",
+    "Intune.md",
     "Migrating from onprem to Azure.md",
     "attachments/Pasted image 20241231104433.png",
     "attachments/Pasted image 20241231104340.png",
@@ -179,11 +183,8 @@
     "attachments/Pasted image 20241231104217.png",
     "attachments/Pasted image 20241231104211.png",
     "attachments/Pasted image 20241231104206.png",
-    "attachments/Pasted image 20241231104158.png",
-    "attachments/Pasted image 20241231104152.png",
     "Setting up Azure AD Connect.md",
     "attachments",
-    "Intune.md",
     "Deploying VMs.md",
     "Images"
   ]
