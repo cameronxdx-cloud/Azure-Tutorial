@@ -11,10 +11,14 @@
             "id": "d258e8a016d62702",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Setting up Azure AD Connect.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Setting up Azure AD Connect"
             }
           }
         ]
@@ -164,8 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb2b43564027e017",
+  "active": "d258e8a016d62702",
   "lastOpenFiles": [
+    "attachments/Pasted image 20241231103628.png",
+    "attachments",
     "Setting up Azure AD Connect.md",
     "Migrating from onprem to Azure.md",
     "Entra ID.md",
