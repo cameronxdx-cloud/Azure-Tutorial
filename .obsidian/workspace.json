@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migrating from onprem to Azure.md",
+                "file": "Intune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migrating from onprem to Azure"
+              "title": "Intune"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e176fc497d0f723",
+  "active": "d258e8a016d62702",
   "lastOpenFiles": [
+    "Migrating from onprem to Azure.md",
     "attachments/Pasted image 20241231104433.png",
     "attachments/Pasted image 20241231104340.png",
     "attachments/Pasted image 20241231104236.png",
@@ -180,9 +181,7 @@
     "attachments/Pasted image 20241231104206.png",
     "attachments/Pasted image 20241231104158.png",
     "attachments/Pasted image 20241231104152.png",
-    "attachments/Pasted image 20241231104147.png",
     "Setting up Azure AD Connect.md",
-    "Migrating from onprem to Azure.md",
     "attachments",
     "Intune.md",
     "Deploying VMs.md",
