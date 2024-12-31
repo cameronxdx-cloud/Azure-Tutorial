@@ -14,6 +14,7 @@
 ![](attachments/Pasted%20image%2020241231134838.png)
 
 3. The **User Sign-In** page provides the option to select a sign-in method for synchronized users. We'll opt for **Password Hash Synchronization**, which enables users to access the cloud using the same password as their on-premise account.
+
 ![](attachments/Pasted%20image%2020241231135400.png)
 4. Next **Connect to Entra AD with your global administrator account**. Once done you will be taken straight to the **Connect your directories** page. Ensure your forest is selected and click **Add Directory**. In the popup window select **Create new AD Account** and enter your domain administrator account information below, then click **OK**.
 ![](attachments/Pasted%20image%2020241231104003.png)
