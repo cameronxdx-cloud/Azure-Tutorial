@@ -1,6 +1,27 @@
-1. Make sure users have correct licenses 
-2. Backups users data
-3. Set up Azure Entra Connect on a DC (https://ourcloudnetwork.com/how-to-install-and-manage-azure-ad-connect/)
-    - Install and configure Azure AD connect to sync your on-prem Active Directory with Azure Active Directory
-4. Migrate Users
-    - Use Azure AD Connect to migrate user accounts from your on-premises Active Directory to Azure AD. You can choose to migrate all users at once or in phases.
+![](attachments/Pasted%20image%2020241231103628.png)
+![](attachments/Pasted%20image%2020241231103628.png)
+![](attachments/Pasted%20image%2020241231103926.png)
+![](attachments/Pasted%20image%2020241231103934.png)
+![](attachments/Pasted%20image%2020241231103941.png)
+![](attachments/Pasted%20image%2020241231103953.png)
+![](attachments/Pasted%20image%2020241231104003.png)
+![](attachments/Pasted%20image%2020241231104013.png)
+![](attachments/Pasted%20image%2020241231104039.png)
+![](attachments/Pasted%20image%2020241231104043.png)
+![](attachments/Pasted%20image%2020241231104115.png)
+![](attachments/Pasted%20image%2020241231104123.png)
+![](attachments/Pasted%20image%2020241231104133.png)
+![](attachments/Pasted%20image%2020241231104139.png)
+![](attachments/Pasted%20image%2020241231104147.png)
+![](attachments/Pasted%20image%2020241231104152.png)
+![](attachments/Pasted%20image%2020241231104158.png)
+![](attachments/Pasted%20image%2020241231104206.png)
+![](attachments/Pasted%20image%2020241231104211.png)
+![](attachments/Pasted%20image%2020241231104217.png)
+![](attachments/Pasted%20image%2020241231104225.png)
+![](attachments/Pasted%20image%2020241231104230.png)
+![](attachments/Pasted%20image%2020241231104236.png)
+![](attachments/Pasted%20image%2020241231104340.png)
+![](attachments/Pasted%20image%2020241231104433.png)
+
+Success!! 
