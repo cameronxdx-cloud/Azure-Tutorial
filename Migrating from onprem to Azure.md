@@ -51,4 +51,10 @@
 ![](attachments/Pasted%20image%2020241231104340.png)
 ![](attachments/Pasted%20image%2020241231104433.png)
 
+
+# Manually Sync Command:
+```
+Start-ADSyncSyncCycle -PolicyType Delta
+```
+
 Success!! 
