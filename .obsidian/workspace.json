@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intune/Intune.md",
+                "file": "Intune/Enrolling Device with Intune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intune"
+              "title": "Enrolling Device with Intune"
             }
           }
         ],
@@ -184,8 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e176fc497d0f723",
+  "active": "f3fd78240f52f18e",
   "lastOpenFiles": [
+    "Intune/attachments/Pasted image 20250410113524.png",
+    "Intune/attachments/Pasted image 20250410113437.png",
+    "Intune/attachments/Pasted image 20250410113401.png",
+    "Intune/attachments",
     "Intune",
     "Migrating from onprem to Azure.md",
     "Deploying VMs.md",
@@ -197,11 +201,9 @@
     "attachments/Pasted image 20250408104359.png",
     "attachments/Pasted image 20250408104321.png",
     "Azure Projects.md",
-    "Intune/Intune.md",
+    "Intune/Enrolling Device with Intune.md",
     "attachments/Pasted image 20241231135719.png",
     "attachments/Pasted image 20241231135400.png",
-    "attachments/Pasted image 20241231134838.png",
-    "attachments/Pasted image 20241231133843.png",
     "Setting up Azure AD Connect.md",
     "attachments",
     "Images"
