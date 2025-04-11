@@ -30,7 +30,7 @@
 
 
 
-## Entra Configuration 
+## Intune Configuration 
 Navigate to the Intune Admin center 
 ![](attachments/Pasted%20image%2020250410113401.png)
 
@@ -60,3 +60,4 @@ Navigate to the Intune Admin center
 ![](attachments/Pasted%20image%2020250411103819.png)
 
 ![](attachments/Pasted%20image%2020250411103646.png)
+
