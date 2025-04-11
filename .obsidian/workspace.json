@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Enrolling Device with Intune"
             }
+          },
+          {
+            "id": "25cc58cea110ad6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intune/Create Dynamic Device Groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create Dynamic Device Groups"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,26 +198,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3fd78240f52f18e",
+  "active": "25cc58cea110ad6c",
   "lastOpenFiles": [
+    "Intune/attachments/Pasted image 20250411105013.png",
+    "Intune/attachments/Pasted image 20250411105004.png",
+    "Intune/attachments/Pasted image 20250411104802.png",
+    "Intune/attachments/Pasted image 20250411104709.png",
+    "Intune/attachments/Pasted image 20250411104458.png",
+    "Intune/Enrolling Device with Intune.md",
+    "Intune/Create Dynamic Device Groups.md",
     "Intune/attachments/Pasted image 20250411103819.png",
     "Intune/attachments/Pasted image 20250411103717.png",
     "Intune/attachments/Pasted image 20250411103646.png",
     "Intune/attachments/Pasted image 20250411103533.png",
     "Intune/attachments/Pasted image 20250411103334.png",
     "Intune/attachments/Pasted image 20250411103221.png",
-    "Intune/attachments/Pasted image 20250411103128.png",
-    "Intune/attachments/Pasted image 20250411103121.png",
-    "Intune/attachments/Pasted image 20250411102633.png",
-    "Intune/attachments/Pasted image 20250411100918.png",
-    "Intune/attachments/Pasted image 20250411100902.png",
     "Intune/attachments",
     "Intune",
     "Migrating from onprem to Azure.md",
     "Deploying VMs.md",
     "Entra Connect.md",
     "Azure Projects.md",
-    "Intune/Enrolling Device with Intune.md",
     "Setting up Azure AD Connect.md",
     "attachments",
     "Images"
