@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intune/Microsoft Defender.md",
+                "file": "Intune/Create Dynamic Device Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Defender"
+              "title": "Create Dynamic Device Groups"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.0069465637207
   },
   "right": {
     "id": "b801be2bf5690556",
@@ -203,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,24 +215,23 @@
   },
   "active": "71159840d38178ce",
   "lastOpenFiles": [
-    "Intune/attachments/Pasted image 20250411121308.png",
-    "Intune/Create Dynamic Device Groups.md",
+    "Intune/Enrolling Device with Intune.md",
     "Intune/Microsoft Defender.md",
+    "Deploying VMs.md",
+    "Migrating from onprem to Azure.md",
+    "Intune/Create Dynamic Device Groups.md",
+    "Intune/attachments/Pasted image 20250411121308.png",
     "Intune/attachments/Pasted image 20250411105013.png",
     "Intune/attachments/Pasted image 20250411105004.png",
     "Intune/attachments/Pasted image 20250411104802.png",
     "Intune/attachments/Pasted image 20250411104709.png",
     "Intune/attachments/Pasted image 20250411104458.png",
-    "Intune/Enrolling Device with Intune.md",
     "Intune/attachments/Pasted image 20250411103819.png",
     "Intune/attachments/Pasted image 20250411103717.png",
     "Intune/attachments/Pasted image 20250411103646.png",
     "Intune/attachments/Pasted image 20250411103533.png",
-    "Intune/attachments/Pasted image 20250411103334.png",
     "Intune/attachments",
     "Intune",
-    "Migrating from onprem to Azure.md",
-    "Deploying VMs.md",
     "Entra Connect.md",
     "Azure Projects.md",
     "Setting up Azure AD Connect.md",
